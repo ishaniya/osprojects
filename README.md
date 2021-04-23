@@ -22,13 +22,13 @@ Mutex Lock. Create a scenario such that
 after every execution, the value of the 
 shared variable should be consistent. 
 
-3.Write a program to create three threads and 
+3. Write a program to create three threads and 
 three binary semaphore S1, S2 and S3 that are 
 initialized with value 1. Threads should 
 acquire semaphore in such a manner that 
 deadlock is achieved. 
 
-4.Write a program to implement producer 
+4. Write a program to implement producer 
 consumer problem such that Maximum 
 number of items produced by a producer are 
 five. Producer should not produce any item if 
